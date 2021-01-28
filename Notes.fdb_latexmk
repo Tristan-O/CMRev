@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1611870902 "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.tex" "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.pdf" "Notes" 1611870921
-  "Notes.aux" 1611870904 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Notes.tex" 1611870920 609 37299c88951b663584206e8491efcc97 ""
+["pdflatex"] 1611875651 "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.tex" "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.pdf" "Notes" 1611875652
+  "Notes.aux" 1611875652 124 c550a57a6141b005a1549820181ac250 "pdflatex"
+  "Notes.tex" 1611875645 638 d0b565a593582051c6cde994b820f388 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1611865423 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1611864801 1004 54797486969f23fa377b128694d548df ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1611864801 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -9,6 +9,7 @@
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1611864801 928 2dc8d444221b7a635bb58038579b861a ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1611864801 908 2921f8a10601f252058503cc6570e581 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1611864801 940 228d6584342e91276bf566bcf9716b83 ""
+  "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1611865077 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1611865077 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1611865077 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1611865077 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -20,6 +21,7 @@
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1611865077 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1611865077 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1611865077 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1611864801 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1611864801 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1611864801 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1611864801 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
@@ -52,11 +54,11 @@
   "c:/Program Files/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1611867020 5202883 3fccd98aed29774980cfd4d01a27995b ""
   "c:/Program Files/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1611867158 2568462 7770ba1dece8387de70ce3628193f6ec ""
   "c:/Program Files/texlive/2020/texmf.cnf" 1611866976 713 e69b156964470283e0530f5060668171 ""
-  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.aux" 1611870904 32 3985256e7290058c681f74d7a3565a19 ""
-  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.tex" 1611870920 609 37299c88951b663584206e8491efcc97 ""
+  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.aux" 1611875652 124 c550a57a6141b005a1549820181ac250 ""
+  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.tex" 1611875645 638 d0b565a593582051c6cde994b820f388 ""
   (generated)
-  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.log"
-  "Notes.aux"
-  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.pdf"
   "Notes.pdf"
+  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.log"
+  "c:/Users/trone/Google Drive (tpo@g.ucla.edu)/Research/Reviews/CM-Review1/Notes.pdf"
   "Notes.log"
+  "Notes.aux"
